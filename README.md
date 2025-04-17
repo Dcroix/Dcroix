@@ -54,4 +54,4 @@ Independent Data Science Consultant (Jedi Data Seer)
 
 ## ⚡ Philosophy
 
-> "In every bug lies a lesson. In every crash, a chance to grow."
+> "In the realm of data, clarity comes from understanding, not brute force. To truly harness the power of the Force (or data), one must listen, observe, and adapt, always seeking balance between logic and creativity. Data tells a story—my mission is to uncover that narrative and share it with the galaxy."
