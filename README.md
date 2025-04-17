@@ -1,10 +1,13 @@
 ## 📈 Current Role
 > Independent Data Science Consultant (Jedi Data Seer)
 
-## ⚔️ Current Missions
+## ⚔️ Main Missions
 * Development of Anomaly Detection App for Fraud Insights
 * Machine Learning Operations (MLOps) + Technical leadership
-
+* Data Storytelling for Business Decisions
+* Establishment of Data Preprocessing Pipeline
+* Evaluation of Data Quality Improvements
+  
 ## 🌀 Ways of the Force
 
 <p align="left">
