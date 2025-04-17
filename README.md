@@ -1,4 +1,5 @@
-## 📈 Current Role: Independent Data Science Consultant (Jedi Data Seer)
+## 📈 Current Role
+Independent Data Science Consultant (Jedi Data Seer)
 > "Traveling between systems to help organizations harness the Force from their data."
 
 ## ⚔️ Main Missions
