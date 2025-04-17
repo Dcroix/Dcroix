@@ -1,5 +1,5 @@
 ## 📈 Current Role: Independent Data Science Consultant (Jedi Data Seer)
-> "Traveling between systems to help organizations harness the Force of their data."
+> "Traveling between systems to help organizations harness the Force from their data."
 
 ## ⚔️ Main Missions
 * Development of Anomaly Detection App for Fraud Insights
