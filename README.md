@@ -1,3 +1,6 @@
+## 📈 Role
+> Independent Data Science Consultant (Jedi Data Seer)
+
 ## 🌀 Ways of the Force
 
 <p align="left">
