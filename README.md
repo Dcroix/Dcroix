@@ -2,8 +2,8 @@
 > Independent Data Science Consultant (Jedi Data Seer)
 
 ## ⚔️ Current Missions
-> Development of Anomaly Detection App for Fraud Insights
-> Machine Learning Operations (MLOps) + Technical leadership
+* Development of Anomaly Detection App for Fraud Insights
+* Machine Learning Operations (MLOps) + Technical leadership
 
 ## 🌀 Ways of the Force
 
