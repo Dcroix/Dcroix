@@ -8,6 +8,11 @@ Independent Data Science Consultant (Jedi Data Seer)
 * Data Storytelling for Business Decisions
 * Establishment of Data Preprocessing Pipeline
 * Evaluation of Data Quality Improvements
+
+## 🏹 Side Quests
+* Development and Maintainance for Qdesc — a python libray that simplifies descriptive analysis, making it easier for data scientists and analysts to quickly summarize data, calculate key statistics, and gain insights effortlessly.
+* Development and Maintenance of RSamplingz — an online sample size calculator powered by R.
+* Crafting a medieval fantasy JRPG in Unity — where heroes rise, kingdoms fall, and choices shape the fate of the realm.
   
 ## 🌀 Ways of the Force
 
