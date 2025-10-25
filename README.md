@@ -14,7 +14,7 @@ Independent Data Science Consultant (Jedi Data Seer)
 * Development and Maintenance of [RSamplingz](https://pghilado.shinyapps.io/rsamplingz/) — an online sample size calculator powered by R.
 * Crafting a medieval fantasy JRPG in Unity — where heroes rise, kingdoms fall, and choices shape the fate of the realm.
 * Mentoring aspiring data scientists and analysts through national trainings and workshops on data science.
-* Teaching research and statistics to students in allied health programs.
+* Teaching machine learning, project management, organizational management, advanced statistics, and research
   
 ## 🌀 Ways of the Force
 
