@@ -3,7 +3,7 @@ Independent Data Science Consultant (Jedi Data Seer)
 > "Traveling between systems to help organizations harness the Force from their data."
 
 ## ⚔️ Main Missions
-* Development of an offline, secure LLM integrating internal company reports to enable executive-level data-driven decision-making.
+* Development of an offline AI assistant which integrates company reports for executive-level data-driven decision-making.
 * Development of Anomaly Detection App for Fraud Insights
 * Machine Learning Operations (MLOps) + Technical leadership
 * Data Storytelling for Business Decisions
