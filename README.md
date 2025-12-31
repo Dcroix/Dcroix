@@ -1,6 +1,6 @@
 ## 📈 Current Role
-Independent Data Science Consultant (Jedi Data Seer)
-> "Traveling between systems to help organizations harness the Force from their data."
+Independent Artificial Intelligence and Data Science Consultant
+> "Helping organizations harness the Force from their data and creating AI technologies for seamless data driven decision."
 
 ## ⚔️ Main Missions
 * Development of an offline AI assistant which integrates company reports for executive-level data-driven decision-making.
