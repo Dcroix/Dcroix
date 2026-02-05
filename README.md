@@ -1,7 +1,7 @@
 
 
 ## 📈 Current Role
-Independent Artificial Intelligence and Data Science Consultant
+Independent Artificial Intelligence and Data Science Consultant  
 [DOST OneExpert](https://oneexpert.gov.ph/consultant/8092) | [LinkedIn](https://www.linkedin.com/in/paolo-hilado-a5649839/) | [Project Portfolio](https://www.ptcsitesresearch.com/)  
 > "Helping organizations harness the Force from their data and creating AI technologies for seamless data driven decision."
 
