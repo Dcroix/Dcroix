@@ -1,3 +1,6 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-hilado-a5649839?originalSubdomain=ph)
+
+
 ## 📈 Current Role
 Independent Artificial Intelligence and Data Science Consultant
 > "Helping organizations harness the Force from their data and creating AI technologies for seamless data driven decision."
