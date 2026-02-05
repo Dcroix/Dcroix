@@ -1,3 +1,6 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcroix&show_icons=true&count_private=true&theme=radical)
+
+
 ## 📈 Current Role
 Independent Artificial Intelligence and Data Science Consultant
 > "Helping organizations harness the Force from their data and creating AI technologies for seamless data driven decision."
