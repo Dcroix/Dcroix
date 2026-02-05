@@ -1,5 +1,4 @@
-🌐 [DOST OneExpert](https://oneexpert.gov.ph/consultant/8092) |  
-💼 [LinkedIn](https://www.linkedin.com/in/paolo-hilado-a5649839/)
+🌐 [DOST OneExpert](https://oneexpert.gov.ph/consultant/8092) |  💼 [LinkedIn](https://www.linkedin.com/in/paolo-hilado-a5649839/)
 
 
 
