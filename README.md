@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Dcroix&style=flat-square)
 
 
 ## 📈 Current Role
