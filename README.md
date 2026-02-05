@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcroix&show_icons=true&count_private=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Dcroix&style=flat-square)
 
 
 ## 📈 Current Role
