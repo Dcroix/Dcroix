@@ -1,5 +1,3 @@
-
-
 ## 📈 Current Role
 Independent Artificial Intelligence and Data Science Consultant
 > "Helping organizations harness the Force from their data and creating AI technologies for seamless data driven decision."
