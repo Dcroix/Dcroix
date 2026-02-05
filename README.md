@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-hilado-a5649839?originalSubdomain=ph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-hilado-a5649839?originalSubdomain=ph) **Paolo Hilado**
 
 
 ## 📈 Current Role
