@@ -20,6 +20,9 @@ Independent Artificial Intelligence and Data Science Consultant
 * Mentoring aspiring data scientists and analysts through national trainings and workshops on data science.
 * Guiding institutions through strategic planning and execution.  
 * Teaching machine learning, organizational management, project management, advanced statistics, and research
+
+## 🥷 Github Movements
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcroix)
   
 ## 🌀 Ways of the Force
 
