@@ -22,7 +22,7 @@ Independent Artificial Intelligence and Data Science Consultant
 * Teaching machine learning, organizational management, project management, advanced statistics, and research
 
 ## 🥷 Github Movements
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcroix&theme=dark&stroke=FF69B4&sideNums=F6C8CC&fire=E6D5E0&currStreakLabel=E6D5E0&&currStreakNum=E6D5E0&mask_out_ring_behind_fire=E6D5E0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcroix&theme=dark&stroke=FF69B4&sideNums=F6C8CC&fire=E6D5E0&currStreakLabel=E6D5E0&&currStreakNum=E6D5E0&ring=E6D5E0)
   
 ## 🌀 Ways of the Force
 
